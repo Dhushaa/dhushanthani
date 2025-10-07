@@ -8,6 +8,7 @@ I’m passionate about building full-stack web applications and bringing ideas t
 
 
 🛠️ Tech Stack
+
 **Frontend**
 - React.js ⚛️ | Next.js HTML | CSS | JavaScript  | Tailwind CSS  
 
