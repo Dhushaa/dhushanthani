@@ -1,7 +1,8 @@
 # dhushanthani
 # 👋 Hi there, I'm Dhusha!  
 
-💻 **Full-Stack developer | React & Node.js Enthusiast | 
+💻 Full-Stack developer | React & Node.js Enthusiast 
+
 
 Welcome to my GitHub profile!  
 I’m passionate about building full-stack web applications and bringing ideas to life through clean, efficient code.
@@ -10,7 +11,7 @@ I’m passionate about building full-stack web applications and bringing ideas t
 🛠️ Tech Stack
 
 **Frontend**
-- React.js ⚛️ | Next.js HTML | CSS | JavaScript  | Tailwind CSS  
+- React.js ⚛️ | Next.js | HTML | CSS | JavaScript  | Tailwind CSS  
 
 **Backend**
 - Node.js | Express.js | Flask | Java | PHP | C#
